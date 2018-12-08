@@ -1,2 +1,2 @@
 puts "Hello World!"
-1
+puts "松江高専"
